@@ -1,0 +1,8 @@
+title: Frognon Notes
+description: Notes on the nature of things
+email: frognon@protonmail.com
+baseurl: ""
+url: https://frognon.github.io
+
+theme: minima
+permalink: /_posts/:title
